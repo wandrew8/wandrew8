@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Andrew. Frontend developer currently looking for career opportunties
+## Hi there 👋 I'm Andrew, a frontend web developer currently looking for career opportunties
 
 
 ### 📫 How to reach me
